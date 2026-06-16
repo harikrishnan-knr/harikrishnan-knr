@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Your Name
+# Hi there 👋, I'm Hari krishnan
 
 ## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 
 - 🔭 Currently working on Cloud & DevOps projects
 - 🌱 Learning Kubernetes, GitOps, and Platform Engineering
-- ☁️ Experienced with AWS, Azure, and GCP
+- ☁️ Experienced with AWS
 - 🐳 Docker & Kubernetes enthusiast
 - ⚡ Automation-first mindset
 - 🎯 Goal: Build resilient and scalable systems
@@ -21,8 +21,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### DevOps Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,9 +73,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌍 Portfolio: https://your-portfolio.com
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/hari-krishnan-tech
+- 🌍 Portfolio: https://harikrishnan-knr.github.io/portfolio/
+- 📧 Email: harikrishnanknrofficial@gmail.com
 
 ---
 
