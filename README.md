@@ -43,14 +43,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
